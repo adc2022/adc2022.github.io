@@ -1,0 +1,47 @@
+2022 Australasian Database Conference - Call for papers
+
+The Australasian Database Conference series is an annual forum for sharing the latest research progresses and novel applications of database systems, data management, data mining and data analytics for researchers and practitioners in these areas from Australia, New Zealand and in the world. The 33rd edition of the Australasian Database Conference, ADC 2022, will be held in Sydney, Australia. In addition to regular research papers, industry papers, demo sessions, and plenary poster sessions, ADC 2022 will also feature multiple keynote speeches and tutorials given by world-leading researchers and industry leaders. Welcomes contributions related to all aspects of database theory and foundation, techniques, and applications.
+
+Relevant topics include, but are not limited to:
+- Artificial intelligence in big data
+- Cloud, distributed, and parallel databases
+- Data cleaning
+- Data mining and data analytics
+- Data platform internals
+- Data warehousing
+- Database integration
+- Database performance and tuning
+- High-dimensional and temporal data
+- Knowledge discovery
+- Machine learning methods for management of data
+- Mobile databases
+- Multimedia databases
+- Novel data management applications
+- Privacy and security in databases
+- Query processing and optimization
+- Recommendation Systems
+- Semi-structured data and XML
+- Social data management
+- Spatial data processing and management
+- Stream and sensor data management
+- Uncertain and probabilistic databases
+- Web databases
+
+Contribution Types:
+- Research and Industry Full Papers (12 pages)
+- Demonstration Papers (4 pages)
+
+Instructions:
+- Submitted papers must be original contributions and cannot be under review for any other forum. The accepted papers will be published in the conference proceedings, which will form a volume in the Springer's Lecture Notes in Computer Science series.
+- All submitted papers must be in English and conform to the formatting instructions for the Lecture Notes in - Computer Science (LNCS) including references and figures.
+- The format style files are available at LNCS Authors Instructions Page.
+- Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+- Submitted files must be in PDF, where the following page limits apply: 12 pages for research/industry papers, and 4 pages for demonstration proposals.
+- Each paper will be judged on its originality, significance, technical quality, relevance to ADC, and presentation.
+ADC follows single-blind review which means that authors' information must be included in the submission.
+
+Important Dates:
+Full Paper Deadline: 20th April, 2022 and the submission page is here: https://easychair.org/my/conference?conf=adc2022
+Author Notification: 20th June, 2022.
+Camera-Ready Deadline: 29th July, 2022.
+Conference Dates: 3rd September - 4th September, 2022.
